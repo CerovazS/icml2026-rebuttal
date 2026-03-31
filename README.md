@@ -1,11 +1,7 @@
 # ICML 2026 Rebuttal — Distortion Controls Rate: How VAEs Shape Latent Geometry
 
-This repository contains supplementary material, experiments, and responses for the rebuttal of our ICML 2026 submission.
+Supplementary figures for the rebuttal of our ICML 2026 submission.
 
-## Structure
+## Figures
 
-```
-rebuttal/          # Per-reviewer responses
-experiments/       # Additional experiments requested by reviewers
-figures/           # Supplementary figures
-```
+See the `figures/` directory.
