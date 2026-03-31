@@ -11,5 +11,8 @@ Supplementary figures for the rebuttal of our ICML 2026 submission.
 ## Reconstruction Grid
 ![Reconstruction Grid](recon_grid_val0055.png)
 
+## Rate vs DINO
+![Rate vs DINO](rate_vs_dino_paper_style.png)
+
 ## Tiny ImageNet
 ![tiny_imagenet](tiny_imagenet.png)
