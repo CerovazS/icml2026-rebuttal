@@ -20,5 +20,8 @@ Supplementary figures for the rebuttal of our ICML 2026 submission.
 ## Rate vs DINO
 ![Rate vs DINO](rate_vs_dino_paper_style.png)
 
+## Oxford-Flowers RD Curves
+![Oxford-Flowers RD Curves](rd_flowers_lpips_dino.png)
+
 ## Tiny ImageNet
 ![tiny_imagenet](tiny_imagenet.png)
