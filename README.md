@@ -2,29 +2,31 @@
 
 Supplementary figures for the rebuttal of our ICML 2026 submission.
 
-## Oxford 102 Flowers
-![Oxford 102 Flowers](anisotropy_vs_lambda.png)
+# Tiny-ImageNet
 
-## Reconstruction Grid
-![Reconstruction Grid](recon_grid_val0005.png)
+### Section 4.1 - Perceptual loss weight vs. Rate
+![Tiny ImageNet Perceptual loss weight vs. Rate](tinyimg_experiments1.png)
 
-## Reconstruction Grid
-![Reconstruction Grid](recon_grid_val0055.png)
+### Section 4.2 - Anisotropy vs. Perceptual loss weight
+![Tiny ImageNet Anisotropy vs. Perceptual loss weight](tinyimg_experiments2.png)
 
-## Reconstruction Grid (DINO)
-![Reconstruction Grid (DINO)](recon_grid_dino_val0005.png)
+# Oxford Flowers 102
 
-## Reconstruction Grid (DINO)
-![Reconstruction Grid (DINO)](recon_grid_dino_val0055.png)
+### RD curves for LPIPS-VGG vs. DINOv2
+![Flowers RD curves](flowers_rd_curves.png)
 
-## Rate vs DINO
-![Rate vs DINO](rate_vs_dino_paper_style.png)
+# Distributional distance with InceptionV3-FID
 
-## Oxford-Flowers RD Curves
-![Oxford-Flowers RD Curves](rd_flowers_lpips_dino.png)
+### InceptionV3-FID vs. Beta (KL loss weight)
+![FID vs beta](rfid_vs_beta.png)
 
-## Rate Distortion Claim 2
-![Rate Distortion Claim 2](rd_tinyimg_two_panel.png)
+### InceptionV3-FID vs. Lambda (LPIPS-VGG perceptual loss weight)
+![FID vs lambda](rfid_vs_lambda.png)
 
-## Tiny ImageNet
-![Tiny ImageNet](rd_tinyimg_perceptual.png)
+# Reconstructions at varying Lambda (perceptual loss weight) and Beta (KL weight)
+
+### Reconstructions with LPIPS-VGG perceptual loss
+![Reconstruction Grid LPIPS](grid_lpips.png)
+
+### Reconstructions with DINOv2 perceptual loss
+![Reconstruction Grid DINO](grid_dino.png)
