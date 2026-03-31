@@ -23,5 +23,8 @@ Supplementary figures for the rebuttal of our ICML 2026 submission.
 ## Oxford-Flowers RD Curves
 ![Oxford-Flowers RD Curves](rd_flowers_lpips_dino.png)
 
+## Rate Distortion Claim 2
+![Rate Distortion Claim 2](rd_tinyimg_two_panel.png)
+
 ## Tiny ImageNet
 ![Tiny ImageNet](rd_tinyimg_perceptual.png)
