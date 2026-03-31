@@ -3,7 +3,7 @@
 Supplementary figures for the rebuttal of our ICML 2026 submission.
 
 ## Oxford 102 Flowers
-![Oxford 102 Flowers](figure6_style_dashboard.png)
+![Oxford 102 Flowers](anisotropy_vs_lambda.png)
 
 ## Reconstruction Grid
 ![Reconstruction Grid](recon_grid_val0005.png)
@@ -24,4 +24,4 @@ Supplementary figures for the rebuttal of our ICML 2026 submission.
 ![Oxford-Flowers RD Curves](rd_flowers_lpips_dino.png)
 
 ## Tiny ImageNet
-![tiny_imagenet](tiny_imagenet.png)
+![Tiny ImageNet](rd_tinyimg_perceptual.png)
